@@ -1,0 +1,7 @@
+﻿  game_main.cpp
+c:\users\vantan\documents\atelier\algorithm\1ドットずつ描画\program\game\game_main.cpp(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' の宣言を確認してください
+c:\users\vantan\documents\atelier\algorithm\1ドットずつ描画\program\game\game_main.cpp(222): warning C4101: 'b': ローカル変数は 1 度も使われていません。
+c:\users\vantan\documents\atelier\algorithm\1ドットずつ描画\program\game\game_main.cpp(222): warning C4101: 'g': ローカル変数は 1 度も使われていません。
+c:\users\vantan\documents\atelier\algorithm\1ドットずつ描画\program\game\game_main.cpp(222): warning C4101: 'r': ローカル変数は 1 度も使われていません。
+  dx_game.vcxproj -> C:\Users\vantan\Documents\Atelier\ALGORITHM\1ドットずつ描画\Debug\dx_game.exe
